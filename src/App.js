@@ -28,7 +28,7 @@ function App() {
         />
       </div>
       <div className="stream_container">
-        <iframe width="640" height="360" src="https://www.youtube.com/embed/LrZnmXovp7E" title="YouTube video player"
+        <iframe width="640" height="360" src="https://www.youtube.com/embed/UsmGSvEFEuM" title="YouTube video player"
           frameBorder="0"
           allow="autoplay; gyroscope; web-share"
         />
