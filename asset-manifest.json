@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/radmila_stream_2/static/css/main.e5c620b2.css",
-    "main.js": "/radmila_stream_2/static/js/main.c308938c.js",
+    "main.js": "/radmila_stream_2/static/js/main.0b6db784.js",
     "static/js/787.3cd07ded.chunk.js": "/radmila_stream_2/static/js/787.3cd07ded.chunk.js",
     "index.html": "/radmila_stream_2/index.html",
     "main.e5c620b2.css.map": "/radmila_stream_2/static/css/main.e5c620b2.css.map",
-    "main.c308938c.js.map": "/radmila_stream_2/static/js/main.c308938c.js.map",
+    "main.0b6db784.js.map": "/radmila_stream_2/static/js/main.0b6db784.js.map",
     "787.3cd07ded.chunk.js.map": "/radmila_stream_2/static/js/787.3cd07ded.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5c620b2.css",
-    "static/js/main.c308938c.js"
+    "static/js/main.0b6db784.js"
   ]
 }
